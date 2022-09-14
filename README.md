@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**marinaaol/marinaaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on petting my dog.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning the basics of HTML, CSS, Javascript.
+
+- 👯 I'm looking to collaborate on improving the women's tech community.
+
+- 🤔 I’m looking for help with the basics and starting a career as a front-end developer. 
+
+- 💬 Ask me about building a profile on Linkedin.
+
+- 📫 How to reach me: marina508@gmail.com
+@marinaaol
+
+- 😄 Pronouns: she/her
+
+- ⚡ Fun fact: I'm a lefthand and believe in street pole button.
+
