@@ -16,4 +16,4 @@
 
 - 😄 Pronouns: she/her
 
-- ⚡ Fun fact: I'm a lefthand and believe in street pole button.
+- ⚡ Fun fact: I'm a left-hander, I've never tried a single drop of coffee, and I believe in street pole button.
