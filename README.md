@@ -73,15 +73,4 @@ Over 10 years of previous experience in communication, project management, and c
 <br/>
 <br/>
 
-#### Top Repositories
 
-
-<a href="https://github.com/marinaaol/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinaaol&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/marinaaol/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinaaol&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
